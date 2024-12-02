@@ -1,5 +1,5 @@
 # Install-MiniO-on-Ubuntu
-======================Install MiniO on Ubuntu======================
+==============================**Install MiniO on Ubuntu**============================== \
 MiniO is s3 compatible API program
 Minio is simpe easy, its writen in go, you can install on your own servers and produce
 your own s3 buckets to store your data.
